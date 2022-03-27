@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d36a877-7ddb-4adf-9534-eb90aa75214d": {
+      "ProjectGuid": "9d36a877-7ddb-4adf-9534-eb90aa75214d",
+      "DisplayName": "LogicaRecibos",
+      "ColorIndex": 0
+    },
+    "66e65f75-d2b5-474d-9b41-0f3c49aab156": {
+      "ProjectGuid": "66e65f75-d2b5-474d-9b41-0f3c49aab156",
+      "DisplayName": "VistaRecibos",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

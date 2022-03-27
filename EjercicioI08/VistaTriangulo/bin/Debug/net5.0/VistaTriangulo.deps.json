@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VistaTriangulo/1.0.0": {
+        "dependencies": {
+          "LogicaTriangulo": "1.0.0"
+        },
+        "runtime": {
+          "VistaTriangulo.dll": {}
+        }
+      },
+      "LogicaTriangulo/1.0.0": {
+        "runtime": {
+          "LogicaTriangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VistaTriangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaTriangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

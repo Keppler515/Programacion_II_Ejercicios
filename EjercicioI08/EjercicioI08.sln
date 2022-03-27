@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaTriangulo", "LogicaTriangulo\LogicaTriangulo.csproj", "{FECF87E0-BD56-471C-A26D-C4E2E24D0030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaTriangulo", "VistaTriangulo\VistaTriangulo.csproj", "{6A43B283-0257-49A8-BC9B-6C25476517B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECF87E0-BD56-471C-A26D-C4E2E24D0030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECF87E0-BD56-471C-A26D-C4E2E24D0030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECF87E0-BD56-471C-A26D-C4E2E24D0030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECF87E0-BD56-471C-A26D-C4E2E24D0030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A43B283-0257-49A8-BC9B-6C25476517B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A43B283-0257-49A8-BC9B-6C25476517B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A43B283-0257-49A8-BC9B-6C25476517B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A43B283-0257-49A8-BC9B-6C25476517B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC3A58CE-518C-47E6-B217-C97A589F543D}
+	EndGlobalSection
+EndGlobal

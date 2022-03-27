@@ -1,0 +1,11 @@
+G:\Programacion II\EjercicioI08\LogicaTriangulo\bin\Debug\net5.0\LogicaTriangulo.deps.json
+G:\Programacion II\EjercicioI08\LogicaTriangulo\bin\Debug\net5.0\LogicaTriangulo.dll
+G:\Programacion II\EjercicioI08\LogicaTriangulo\bin\Debug\net5.0\ref\LogicaTriangulo.dll
+G:\Programacion II\EjercicioI08\LogicaTriangulo\bin\Debug\net5.0\LogicaTriangulo.pdb
+G:\Programacion II\EjercicioI08\LogicaTriangulo\obj\Debug\net5.0\LogicaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\EjercicioI08\LogicaTriangulo\obj\Debug\net5.0\LogicaTriangulo.AssemblyInfoInputs.cache
+G:\Programacion II\EjercicioI08\LogicaTriangulo\obj\Debug\net5.0\LogicaTriangulo.AssemblyInfo.cs
+G:\Programacion II\EjercicioI08\LogicaTriangulo\obj\Debug\net5.0\LogicaTriangulo.csproj.CoreCompileInputs.cache
+G:\Programacion II\EjercicioI08\LogicaTriangulo\obj\Debug\net5.0\LogicaTriangulo.dll
+G:\Programacion II\EjercicioI08\LogicaTriangulo\obj\Debug\net5.0\ref\LogicaTriangulo.dll
+G:\Programacion II\EjercicioI08\LogicaTriangulo\obj\Debug\net5.0\LogicaTriangulo.pdb

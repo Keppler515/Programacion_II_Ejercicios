@@ -1,0 +1,12 @@
+G:\Programacion II\Ejercicio03\LogicaDePrimos\obj\Debug\net5.0\LogicaDePrimos.csproj.AssemblyReference.cache
+G:\Programacion II\Ejercicio03\LogicaDePrimos\obj\Debug\net5.0\LogicaDePrimos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\Ejercicio03\LogicaDePrimos\obj\Debug\net5.0\LogicaDePrimos.AssemblyInfoInputs.cache
+G:\Programacion II\Ejercicio03\LogicaDePrimos\obj\Debug\net5.0\LogicaDePrimos.AssemblyInfo.cs
+G:\Programacion II\Ejercicio03\LogicaDePrimos\obj\Debug\net5.0\LogicaDePrimos.csproj.CoreCompileInputs.cache
+G:\Programacion II\Ejercicio03\LogicaDePrimos\bin\Debug\net5.0\LogicaDePrimos.deps.json
+G:\Programacion II\Ejercicio03\LogicaDePrimos\bin\Debug\net5.0\LogicaDePrimos.dll
+G:\Programacion II\Ejercicio03\LogicaDePrimos\bin\Debug\net5.0\ref\LogicaDePrimos.dll
+G:\Programacion II\Ejercicio03\LogicaDePrimos\bin\Debug\net5.0\LogicaDePrimos.pdb
+G:\Programacion II\Ejercicio03\LogicaDePrimos\obj\Debug\net5.0\LogicaDePrimos.dll
+G:\Programacion II\Ejercicio03\LogicaDePrimos\obj\Debug\net5.0\ref\LogicaDePrimos.dll
+G:\Programacion II\Ejercicio03\LogicaDePrimos\obj\Debug\net5.0\LogicaDePrimos.pdb

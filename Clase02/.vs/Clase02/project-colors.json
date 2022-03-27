@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd662c1b-3d17-4d78-b160-af782c19b005": {
+      "ProjectGuid": "cd662c1b-3d17-4d78-b160-af782c19b005",
+      "DisplayName": "Vista",
+      "ColorIndex": 0
+    },
+    "1f24217c-12e8-4d2e-adc2-ceccef0cfdb2": {
+      "ProjectGuid": "1f24217c-12e8-4d2e-adc2-ceccef0cfdb2",
+      "DisplayName": "LogicaNegocio",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

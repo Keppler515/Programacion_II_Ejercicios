@@ -1,0 +1,12 @@
+G:\Programacion II\EjercicioI06\LogicaBisiestos\bin\Debug\net5.0\LogicaBisiestos.deps.json
+G:\Programacion II\EjercicioI06\LogicaBisiestos\bin\Debug\net5.0\LogicaBisiestos.dll
+G:\Programacion II\EjercicioI06\LogicaBisiestos\bin\Debug\net5.0\ref\LogicaBisiestos.dll
+G:\Programacion II\EjercicioI06\LogicaBisiestos\bin\Debug\net5.0\LogicaBisiestos.pdb
+G:\Programacion II\EjercicioI06\LogicaBisiestos\obj\Debug\net5.0\LogicaBisiestos.csproj.AssemblyReference.cache
+G:\Programacion II\EjercicioI06\LogicaBisiestos\obj\Debug\net5.0\LogicaBisiestos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\EjercicioI06\LogicaBisiestos\obj\Debug\net5.0\LogicaBisiestos.AssemblyInfoInputs.cache
+G:\Programacion II\EjercicioI06\LogicaBisiestos\obj\Debug\net5.0\LogicaBisiestos.AssemblyInfo.cs
+G:\Programacion II\EjercicioI06\LogicaBisiestos\obj\Debug\net5.0\LogicaBisiestos.csproj.CoreCompileInputs.cache
+G:\Programacion II\EjercicioI06\LogicaBisiestos\obj\Debug\net5.0\LogicaBisiestos.dll
+G:\Programacion II\EjercicioI06\LogicaBisiestos\obj\Debug\net5.0\ref\LogicaBisiestos.dll
+G:\Programacion II\EjercicioI06\LogicaBisiestos\obj\Debug\net5.0\LogicaBisiestos.pdb

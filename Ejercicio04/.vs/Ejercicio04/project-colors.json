@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f32e43e3-742e-4372-bcd4-bba3792ec3de": {
+      "ProjectGuid": "f32e43e3-742e-4372-bcd4-bba3792ec3de",
+      "DisplayName": "LogicaDePerfectos",
+      "ColorIndex": 0
+    },
+    "9e5e95eb-2da2-4900-81d8-34b1e199a2c3": {
+      "ProjectGuid": "9e5e95eb-2da2-4900-81d8-34b1e199a2c3",
+      "DisplayName": "VistaPerfectos",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

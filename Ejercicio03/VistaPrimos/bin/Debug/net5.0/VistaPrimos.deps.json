@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VistaPrimos/1.0.0": {
+        "dependencies": {
+          "LogicaDePrimos": "1.0.0"
+        },
+        "runtime": {
+          "VistaPrimos.dll": {}
+        }
+      },
+      "LogicaDePrimos/1.0.0": {
+        "runtime": {
+          "LogicaDePrimos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VistaPrimos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaDePrimos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

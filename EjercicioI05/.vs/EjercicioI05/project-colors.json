@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0dfeb416-223f-4fd2-9727-733c69555f89": {
+      "ProjectGuid": "0dfeb416-223f-4fd2-9727-733c69555f89",
+      "DisplayName": "LogicaDeCentros",
+      "ColorIndex": 0
+    },
+    "a622c85c-f7db-450e-9363-078de74fe2f5": {
+      "ProjectGuid": "a622c85c-f7db-450e-9363-078de74fe2f5",
+      "DisplayName": "VistaCentros",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

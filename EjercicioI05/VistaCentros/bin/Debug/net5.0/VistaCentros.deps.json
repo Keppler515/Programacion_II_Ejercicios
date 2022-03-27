@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VistaCentros/1.0.0": {
+        "dependencies": {
+          "LogicaDeCentros": "1.0.0"
+        },
+        "runtime": {
+          "VistaCentros.dll": {}
+        }
+      },
+      "LogicaDeCentros/1.0.0": {
+        "runtime": {
+          "LogicaDeCentros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VistaCentros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaDeCentros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

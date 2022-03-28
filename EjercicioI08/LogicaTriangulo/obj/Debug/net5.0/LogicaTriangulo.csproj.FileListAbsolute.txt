@@ -9,3 +9,4 @@ G:\Programacion II\EjercicioI08\LogicaTriangulo\obj\Debug\net5.0\LogicaTriangulo
 G:\Programacion II\EjercicioI08\LogicaTriangulo\obj\Debug\net5.0\LogicaTriangulo.dll
 G:\Programacion II\EjercicioI08\LogicaTriangulo\obj\Debug\net5.0\ref\LogicaTriangulo.dll
 G:\Programacion II\EjercicioI08\LogicaTriangulo\obj\Debug\net5.0\LogicaTriangulo.pdb
+G:\Programacion II\EjercicioI08\LogicaTriangulo\obj\Debug\net5.0\LogicaTriangulo.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+G:\Programacion II\EjercicioI09\LogicaTrianguloEquilatero\bin\Debug\net5.0\LogicaTrianguloEquilatero.deps.json
+G:\Programacion II\EjercicioI09\LogicaTrianguloEquilatero\bin\Debug\net5.0\LogicaTrianguloEquilatero.dll
+G:\Programacion II\EjercicioI09\LogicaTrianguloEquilatero\bin\Debug\net5.0\ref\LogicaTrianguloEquilatero.dll
+G:\Programacion II\EjercicioI09\LogicaTrianguloEquilatero\bin\Debug\net5.0\LogicaTrianguloEquilatero.pdb
+G:\Programacion II\EjercicioI09\LogicaTrianguloEquilatero\obj\Debug\net5.0\LogicaTrianguloEquilatero.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\EjercicioI09\LogicaTrianguloEquilatero\obj\Debug\net5.0\LogicaTrianguloEquilatero.AssemblyInfoInputs.cache
+G:\Programacion II\EjercicioI09\LogicaTrianguloEquilatero\obj\Debug\net5.0\LogicaTrianguloEquilatero.AssemblyInfo.cs
+G:\Programacion II\EjercicioI09\LogicaTrianguloEquilatero\obj\Debug\net5.0\LogicaTrianguloEquilatero.csproj.CoreCompileInputs.cache
+G:\Programacion II\EjercicioI09\LogicaTrianguloEquilatero\obj\Debug\net5.0\LogicaTrianguloEquilatero.dll
+G:\Programacion II\EjercicioI09\LogicaTrianguloEquilatero\obj\Debug\net5.0\ref\LogicaTrianguloEquilatero.dll
+G:\Programacion II\EjercicioI09\LogicaTrianguloEquilatero\obj\Debug\net5.0\LogicaTrianguloEquilatero.pdb
+G:\Programacion II\EjercicioI09\LogicaTrianguloEquilatero\obj\Debug\net5.0\LogicaTrianguloEquilatero.csproj.AssemblyReference.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VistaTrianguloEquilatero/1.0.0": {
+        "dependencies": {
+          "LogicaTrianguloEquilatero": "1.0.0"
+        },
+        "runtime": {
+          "VistaTrianguloEquilatero.dll": {}
+        }
+      },
+      "LogicaTrianguloEquilatero/1.0.0": {
+        "runtime": {
+          "LogicaTrianguloEquilatero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VistaTrianguloEquilatero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaTrianguloEquilatero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

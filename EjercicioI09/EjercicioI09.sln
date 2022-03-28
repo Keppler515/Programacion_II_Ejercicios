@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaTrianguloEquilatero", "LogicaTrianguloEquilatero\LogicaTrianguloEquilatero.csproj", "{69CD2D8C-DAA7-4E89-B2D7-38661C0F07A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaTrianguloEquilatero", "VistaTrianguloEquilatero\VistaTrianguloEquilatero.csproj", "{99D68E43-E506-466C-82F7-B49CBBCB0391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69CD2D8C-DAA7-4E89-B2D7-38661C0F07A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CD2D8C-DAA7-4E89-B2D7-38661C0F07A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CD2D8C-DAA7-4E89-B2D7-38661C0F07A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CD2D8C-DAA7-4E89-B2D7-38661C0F07A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D68E43-E506-466C-82F7-B49CBBCB0391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D68E43-E506-466C-82F7-B49CBBCB0391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D68E43-E506-466C-82F7-B49CBBCB0391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D68E43-E506-466C-82F7-B49CBBCB0391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0E1A997-A588-43D2-A21B-A5E41AE42B1B}
+	EndGlobalSection
+EndGlobal

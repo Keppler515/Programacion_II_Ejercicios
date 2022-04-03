@@ -10,7 +10,7 @@ namespace Logica
         public int edad;
         public bool hambre;
 
-        public Mascota(string nombre, string especie, int edad)
+        public Mascota(string nombre, string especie, int edad)//Constructor de instancia
         {
             this.nombre = nombre;
             this.especie = especie;

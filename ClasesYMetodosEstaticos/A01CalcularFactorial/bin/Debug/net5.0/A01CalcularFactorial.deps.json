@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A01CalcularFactorial/1.0.0": {
+        "dependencies": {
+          "A01Biblioteca": "1.0.0"
+        },
+        "runtime": {
+          "A01CalcularFactorial.dll": {}
+        }
+      },
+      "A01Biblioteca/1.0.0": {
+        "runtime": {
+          "A01Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A01CalcularFactorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "A01Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+G:\Programacion II\ClasesYMetodosEstaticos\I06Biblioteca\bin\Debug\net5.0\I06Biblioteca.deps.json
+G:\Programacion II\ClasesYMetodosEstaticos\I06Biblioteca\bin\Debug\net5.0\I06Biblioteca.dll
+G:\Programacion II\ClasesYMetodosEstaticos\I06Biblioteca\bin\Debug\net5.0\ref\I06Biblioteca.dll
+G:\Programacion II\ClasesYMetodosEstaticos\I06Biblioteca\bin\Debug\net5.0\I06Biblioteca.pdb
+G:\Programacion II\ClasesYMetodosEstaticos\I06Biblioteca\obj\Debug\net5.0\I06Biblioteca.csproj.AssemblyReference.cache
+G:\Programacion II\ClasesYMetodosEstaticos\I06Biblioteca\obj\Debug\net5.0\I06Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\ClasesYMetodosEstaticos\I06Biblioteca\obj\Debug\net5.0\I06Biblioteca.AssemblyInfoInputs.cache
+G:\Programacion II\ClasesYMetodosEstaticos\I06Biblioteca\obj\Debug\net5.0\I06Biblioteca.AssemblyInfo.cs
+G:\Programacion II\ClasesYMetodosEstaticos\I06Biblioteca\obj\Debug\net5.0\I06Biblioteca.csproj.CoreCompileInputs.cache
+G:\Programacion II\ClasesYMetodosEstaticos\I06Biblioteca\obj\Debug\net5.0\I06Biblioteca.dll
+G:\Programacion II\ClasesYMetodosEstaticos\I06Biblioteca\obj\Debug\net5.0\ref\I06Biblioteca.dll
+G:\Programacion II\ClasesYMetodosEstaticos\I06Biblioteca\obj\Debug\net5.0\I06Biblioteca.pdb

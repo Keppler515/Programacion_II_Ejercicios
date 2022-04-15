@@ -1,0 +1,15 @@
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\bin\Debug\net5.0\I08TrianguloRectangulo.exe
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\bin\Debug\net5.0\I08TrianguloRectangulo.deps.json
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\bin\Debug\net5.0\I08TrianguloRectangulo.runtimeconfig.json
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\bin\Debug\net5.0\I08TrianguloRectangulo.runtimeconfig.dev.json
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\bin\Debug\net5.0\I08TrianguloRectangulo.dll
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\bin\Debug\net5.0\ref\I08TrianguloRectangulo.dll
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\bin\Debug\net5.0\I08TrianguloRectangulo.pdb
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\obj\Debug\net5.0\I08TrianguloRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\obj\Debug\net5.0\I08TrianguloRectangulo.AssemblyInfoInputs.cache
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\obj\Debug\net5.0\I08TrianguloRectangulo.AssemblyInfo.cs
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\obj\Debug\net5.0\I08TrianguloRectangulo.csproj.CoreCompileInputs.cache
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\obj\Debug\net5.0\I08TrianguloRectangulo.dll
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\obj\Debug\net5.0\ref\I08TrianguloRectangulo.dll
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\obj\Debug\net5.0\I08TrianguloRectangulo.pdb
+G:\Programacion II\Introduccion\I08TrianguloRectangulo\obj\Debug\net5.0\I08TrianguloRectangulo.genruntimeconfig.cache

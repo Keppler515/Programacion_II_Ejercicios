@@ -1,0 +1,11 @@
+G:\Programacion II\ClasesYMetodosEstaticos\A01Biblioteca\bin\Debug\net5.0\A01Biblioteca.deps.json
+G:\Programacion II\ClasesYMetodosEstaticos\A01Biblioteca\bin\Debug\net5.0\A01Biblioteca.dll
+G:\Programacion II\ClasesYMetodosEstaticos\A01Biblioteca\bin\Debug\net5.0\ref\A01Biblioteca.dll
+G:\Programacion II\ClasesYMetodosEstaticos\A01Biblioteca\bin\Debug\net5.0\A01Biblioteca.pdb
+G:\Programacion II\ClasesYMetodosEstaticos\A01Biblioteca\obj\Debug\net5.0\A01Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\ClasesYMetodosEstaticos\A01Biblioteca\obj\Debug\net5.0\A01Biblioteca.AssemblyInfoInputs.cache
+G:\Programacion II\ClasesYMetodosEstaticos\A01Biblioteca\obj\Debug\net5.0\A01Biblioteca.AssemblyInfo.cs
+G:\Programacion II\ClasesYMetodosEstaticos\A01Biblioteca\obj\Debug\net5.0\A01Biblioteca.csproj.CoreCompileInputs.cache
+G:\Programacion II\ClasesYMetodosEstaticos\A01Biblioteca\obj\Debug\net5.0\A01Biblioteca.dll
+G:\Programacion II\ClasesYMetodosEstaticos\A01Biblioteca\obj\Debug\net5.0\ref\A01Biblioteca.dll
+G:\Programacion II\ClasesYMetodosEstaticos\A01Biblioteca\obj\Debug\net5.0\A01Biblioteca.pdb

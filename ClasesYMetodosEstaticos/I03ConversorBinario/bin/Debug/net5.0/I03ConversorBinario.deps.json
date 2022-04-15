@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "I03ConversorBinario/1.0.0": {
+        "dependencies": {
+          "I03Biblioteca": "1.0.0"
+        },
+        "runtime": {
+          "I03ConversorBinario.dll": {}
+        }
+      },
+      "I03Biblioteca/1.0.0": {
+        "runtime": {
+          "I03Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I03ConversorBinario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "I03Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "I08ElTiempoPasa/1.0.0": {
+        "dependencies": {
+          "I08Biblioteca": "1.0.0"
+        },
+        "runtime": {
+          "I08ElTiempoPasa.dll": {}
+        }
+      },
+      "I08Biblioteca/1.0.0": {
+        "runtime": {
+          "I08Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I08ElTiempoPasa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "I08Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

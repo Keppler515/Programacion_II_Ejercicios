@@ -1,0 +1,16 @@
+G:\Programacion II\Introduccion\I06AñosBisiestos\bin\Debug\net5.0\I06AñosBisiestos.exe
+G:\Programacion II\Introduccion\I06AñosBisiestos\bin\Debug\net5.0\I06AñosBisiestos.deps.json
+G:\Programacion II\Introduccion\I06AñosBisiestos\bin\Debug\net5.0\I06AñosBisiestos.runtimeconfig.json
+G:\Programacion II\Introduccion\I06AñosBisiestos\bin\Debug\net5.0\I06AñosBisiestos.runtimeconfig.dev.json
+G:\Programacion II\Introduccion\I06AñosBisiestos\bin\Debug\net5.0\I06AñosBisiestos.dll
+G:\Programacion II\Introduccion\I06AñosBisiestos\bin\Debug\net5.0\ref\I06AñosBisiestos.dll
+G:\Programacion II\Introduccion\I06AñosBisiestos\bin\Debug\net5.0\I06AñosBisiestos.pdb
+G:\Programacion II\Introduccion\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\Introduccion\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.AssemblyInfoInputs.cache
+G:\Programacion II\Introduccion\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.AssemblyInfo.cs
+G:\Programacion II\Introduccion\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.csproj.CoreCompileInputs.cache
+G:\Programacion II\Introduccion\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.dll
+G:\Programacion II\Introduccion\I06AñosBisiestos\obj\Debug\net5.0\ref\I06AñosBisiestos.dll
+G:\Programacion II\Introduccion\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.pdb
+G:\Programacion II\Introduccion\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.genruntimeconfig.cache
+G:\Programacion II\Introduccion\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.csproj.AssemblyReference.cache

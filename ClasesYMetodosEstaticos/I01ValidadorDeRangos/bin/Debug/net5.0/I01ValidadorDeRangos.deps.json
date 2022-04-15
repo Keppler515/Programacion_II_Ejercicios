@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "I01ValidadorDeRangos/1.0.0": {
+        "dependencies": {
+          "I01Biblioteca": "1.0.0"
+        },
+        "runtime": {
+          "I01ValidadorDeRangos.dll": {}
+        }
+      },
+      "I01Biblioteca/1.0.0": {
+        "runtime": {
+          "I01Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I01ValidadorDeRangos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "I01Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

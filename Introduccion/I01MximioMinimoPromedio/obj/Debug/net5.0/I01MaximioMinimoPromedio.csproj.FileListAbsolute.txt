@@ -1,0 +1,16 @@
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\bin\Debug\net5.0\I01MaximioMinimoPromedio.exe
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\bin\Debug\net5.0\I01MaximioMinimoPromedio.deps.json
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\bin\Debug\net5.0\I01MaximioMinimoPromedio.runtimeconfig.json
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\bin\Debug\net5.0\I01MaximioMinimoPromedio.runtimeconfig.dev.json
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\bin\Debug\net5.0\I01MaximioMinimoPromedio.dll
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\bin\Debug\net5.0\ref\I01MaximioMinimoPromedio.dll
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\bin\Debug\net5.0\I01MaximioMinimoPromedio.pdb
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\obj\Debug\net5.0\I01MaximioMinimoPromedio.csproj.AssemblyReference.cache
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\obj\Debug\net5.0\I01MaximioMinimoPromedio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\obj\Debug\net5.0\I01MaximioMinimoPromedio.AssemblyInfoInputs.cache
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\obj\Debug\net5.0\I01MaximioMinimoPromedio.AssemblyInfo.cs
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\obj\Debug\net5.0\I01MaximioMinimoPromedio.csproj.CoreCompileInputs.cache
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\obj\Debug\net5.0\I01MaximioMinimoPromedio.dll
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\obj\Debug\net5.0\ref\I01MaximioMinimoPromedio.dll
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\obj\Debug\net5.0\I01MaximioMinimoPromedio.pdb
+G:\Programacion II\Introduccion\I01MximioMinimoPromedio\obj\Debug\net5.0\I01MaximioMinimoPromedio.genruntimeconfig.cache

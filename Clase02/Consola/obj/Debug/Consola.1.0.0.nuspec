@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Consola</id>
+    <version>1.0.0</version>
+    <authors>Consola</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\maxis\source\repos\Clase02\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json" target="lib\net5.0\Consola.runtimeconfig.json" />
+    <file src="C:\Users\maxis\source\repos\Clase02\Consola\bin\Debug\net5.0\Consola.dll" target="lib\net5.0\Consola.dll" />
+  </files>
+</package>

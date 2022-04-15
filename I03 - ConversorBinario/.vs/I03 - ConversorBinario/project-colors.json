@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8ac3dc59-a132-48fd-b2df-a33f38a0150d": {
+      "ProjectGuid": "8ac3dc59-a132-48fd-b2df-a33f38a0150d",
+      "DisplayName": "ConversorBinario",
+      "ColorIndex": 0
+    },
+    "54a62fe3-b9ec-4226-ad45-94e2d2506619": {
+      "ProjectGuid": "54a62fe3-b9ec-4226-ad45-94e2d2506619",
+      "DisplayName": "Consola",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

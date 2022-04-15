@@ -10,7 +10,7 @@ namespace LogicaTriangulo
             for (int i = 0; i < altura; i++)
             {
                 Console.WriteLine($"{asterisco}");
-                asterisco = asterisco + "*";
+                asterisco = asterisco + "**";
             }
 
             return asterisco;

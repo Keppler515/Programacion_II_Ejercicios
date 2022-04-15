@@ -1,0 +1,15 @@
+G:\Programacion II\Clase04\Consola\bin\Debug\net5.0\Consola.deps.json
+G:\Programacion II\Clase04\Consola\bin\Debug\net5.0\Consola.dll
+G:\Programacion II\Clase04\Consola\bin\Debug\net5.0\ref\Consola.dll
+G:\Programacion II\Clase04\Consola\bin\Debug\net5.0\Consola.pdb
+G:\Programacion II\Clase04\Consola\bin\Debug\net5.0\Biblioteca.dll
+G:\Programacion II\Clase04\Consola\bin\Debug\net5.0\Biblioteca.pdb
+G:\Programacion II\Clase04\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+G:\Programacion II\Clase04\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\Clase04\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+G:\Programacion II\Clase04\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+G:\Programacion II\Clase04\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+G:\Programacion II\Clase04\Consola\obj\Debug\net5.0\Consola.csproj.CopyComplete
+G:\Programacion II\Clase04\Consola\obj\Debug\net5.0\Consola.dll
+G:\Programacion II\Clase04\Consola\obj\Debug\net5.0\ref\Consola.dll
+G:\Programacion II\Clase04\Consola\obj\Debug\net5.0\Consola.pdb

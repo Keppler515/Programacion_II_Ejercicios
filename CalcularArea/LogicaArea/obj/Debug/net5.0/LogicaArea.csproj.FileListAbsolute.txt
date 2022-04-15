@@ -1,0 +1,12 @@
+G:\Programacion II\CalcularArea\LogicaArea\bin\Debug\net5.0\LogicaArea.deps.json
+G:\Programacion II\CalcularArea\LogicaArea\bin\Debug\net5.0\LogicaArea.dll
+G:\Programacion II\CalcularArea\LogicaArea\bin\Debug\net5.0\ref\LogicaArea.dll
+G:\Programacion II\CalcularArea\LogicaArea\bin\Debug\net5.0\LogicaArea.pdb
+G:\Programacion II\CalcularArea\LogicaArea\obj\Debug\net5.0\LogicaArea.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\CalcularArea\LogicaArea\obj\Debug\net5.0\LogicaArea.AssemblyInfoInputs.cache
+G:\Programacion II\CalcularArea\LogicaArea\obj\Debug\net5.0\LogicaArea.AssemblyInfo.cs
+G:\Programacion II\CalcularArea\LogicaArea\obj\Debug\net5.0\LogicaArea.csproj.CoreCompileInputs.cache
+G:\Programacion II\CalcularArea\LogicaArea\obj\Debug\net5.0\LogicaArea.dll
+G:\Programacion II\CalcularArea\LogicaArea\obj\Debug\net5.0\ref\LogicaArea.dll
+G:\Programacion II\CalcularArea\LogicaArea\obj\Debug\net5.0\LogicaArea.pdb
+G:\Programacion II\CalcularArea\LogicaArea\obj\Debug\net5.0\LogicaArea.csproj.AssemblyReference.cache

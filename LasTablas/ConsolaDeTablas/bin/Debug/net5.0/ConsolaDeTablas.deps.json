@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsolaDeTablas/1.0.0": {
+        "dependencies": {
+          "LogicaDeTablas": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaDeTablas.dll": {}
+        }
+      },
+      "LogicaDeTablas/1.0.0": {
+        "runtime": {
+          "LogicaDeTablas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaDeTablas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaDeTablas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

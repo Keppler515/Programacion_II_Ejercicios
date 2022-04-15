@@ -1,0 +1,16 @@
+G:\Programacion II\Clase06Colecciones\SortedList\bin\Debug\net5.0\SortedList.exe
+G:\Programacion II\Clase06Colecciones\SortedList\bin\Debug\net5.0\SortedList.deps.json
+G:\Programacion II\Clase06Colecciones\SortedList\bin\Debug\net5.0\SortedList.runtimeconfig.json
+G:\Programacion II\Clase06Colecciones\SortedList\bin\Debug\net5.0\SortedList.runtimeconfig.dev.json
+G:\Programacion II\Clase06Colecciones\SortedList\bin\Debug\net5.0\SortedList.dll
+G:\Programacion II\Clase06Colecciones\SortedList\bin\Debug\net5.0\ref\SortedList.dll
+G:\Programacion II\Clase06Colecciones\SortedList\bin\Debug\net5.0\SortedList.pdb
+G:\Programacion II\Clase06Colecciones\SortedList\obj\Debug\net5.0\SortedList.csproj.AssemblyReference.cache
+G:\Programacion II\Clase06Colecciones\SortedList\obj\Debug\net5.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\Clase06Colecciones\SortedList\obj\Debug\net5.0\SortedList.AssemblyInfoInputs.cache
+G:\Programacion II\Clase06Colecciones\SortedList\obj\Debug\net5.0\SortedList.AssemblyInfo.cs
+G:\Programacion II\Clase06Colecciones\SortedList\obj\Debug\net5.0\SortedList.csproj.CoreCompileInputs.cache
+G:\Programacion II\Clase06Colecciones\SortedList\obj\Debug\net5.0\SortedList.dll
+G:\Programacion II\Clase06Colecciones\SortedList\obj\Debug\net5.0\ref\SortedList.dll
+G:\Programacion II\Clase06Colecciones\SortedList\obj\Debug\net5.0\SortedList.pdb
+G:\Programacion II\Clase06Colecciones\SortedList\obj\Debug\net5.0\SortedList.genruntimeconfig.cache

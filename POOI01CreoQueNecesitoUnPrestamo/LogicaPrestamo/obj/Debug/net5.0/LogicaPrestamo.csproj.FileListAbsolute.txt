@@ -1,0 +1,12 @@
+G:\Programacion II\POOI01CreoQueNecesitoUnPrestamo\LogicaPrestamo\bin\Debug\net5.0\LogicaPrestamo.deps.json
+G:\Programacion II\POOI01CreoQueNecesitoUnPrestamo\LogicaPrestamo\bin\Debug\net5.0\LogicaPrestamo.dll
+G:\Programacion II\POOI01CreoQueNecesitoUnPrestamo\LogicaPrestamo\bin\Debug\net5.0\ref\LogicaPrestamo.dll
+G:\Programacion II\POOI01CreoQueNecesitoUnPrestamo\LogicaPrestamo\bin\Debug\net5.0\LogicaPrestamo.pdb
+G:\Programacion II\POOI01CreoQueNecesitoUnPrestamo\LogicaPrestamo\obj\Debug\net5.0\LogicaPrestamo.csproj.AssemblyReference.cache
+G:\Programacion II\POOI01CreoQueNecesitoUnPrestamo\LogicaPrestamo\obj\Debug\net5.0\LogicaPrestamo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\POOI01CreoQueNecesitoUnPrestamo\LogicaPrestamo\obj\Debug\net5.0\LogicaPrestamo.AssemblyInfoInputs.cache
+G:\Programacion II\POOI01CreoQueNecesitoUnPrestamo\LogicaPrestamo\obj\Debug\net5.0\LogicaPrestamo.AssemblyInfo.cs
+G:\Programacion II\POOI01CreoQueNecesitoUnPrestamo\LogicaPrestamo\obj\Debug\net5.0\LogicaPrestamo.csproj.CoreCompileInputs.cache
+G:\Programacion II\POOI01CreoQueNecesitoUnPrestamo\LogicaPrestamo\obj\Debug\net5.0\LogicaPrestamo.dll
+G:\Programacion II\POOI01CreoQueNecesitoUnPrestamo\LogicaPrestamo\obj\Debug\net5.0\ref\LogicaPrestamo.dll
+G:\Programacion II\POOI01CreoQueNecesitoUnPrestamo\LogicaPrestamo\obj\Debug\net5.0\LogicaPrestamo.pdb

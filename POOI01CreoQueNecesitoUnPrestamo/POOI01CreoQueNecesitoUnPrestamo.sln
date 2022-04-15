@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{A00EAC8F-4866-4E33-8ACF-599356B7252E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaPrestamo", "LogicaPrestamo\LogicaPrestamo.csproj", "{BD345462-363F-43C2-9842-EB6E19D2EFF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A00EAC8F-4866-4E33-8ACF-599356B7252E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00EAC8F-4866-4E33-8ACF-599356B7252E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00EAC8F-4866-4E33-8ACF-599356B7252E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00EAC8F-4866-4E33-8ACF-599356B7252E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD345462-363F-43C2-9842-EB6E19D2EFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD345462-363F-43C2-9842-EB6E19D2EFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD345462-363F-43C2-9842-EB6E19D2EFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD345462-363F-43C2-9842-EB6E19D2EFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B505AD37-F054-4C72-B88C-6B7634A147F0}
+	EndGlobalSection
+EndGlobal

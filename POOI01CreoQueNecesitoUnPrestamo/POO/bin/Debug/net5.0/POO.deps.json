@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "POO/1.0.0": {
+        "dependencies": {
+          "LogicaPrestamo": "1.0.0"
+        },
+        "runtime": {
+          "POO.dll": {}
+        }
+      },
+      "LogicaPrestamo/1.0.0": {
+        "runtime": {
+          "LogicaPrestamo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaPrestamo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

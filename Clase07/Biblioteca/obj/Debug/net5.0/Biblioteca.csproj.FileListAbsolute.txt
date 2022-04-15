@@ -1,0 +1,12 @@
+G:\Programacion II\Clase07\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+G:\Programacion II\Clase07\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+G:\Programacion II\Clase07\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+G:\Programacion II\Clase07\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+G:\Programacion II\Clase07\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+G:\Programacion II\Clase07\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\Clase07\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+G:\Programacion II\Clase07\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+G:\Programacion II\Clase07\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+G:\Programacion II\Clase07\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+G:\Programacion II\Clase07\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+G:\Programacion II\Clase07\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb

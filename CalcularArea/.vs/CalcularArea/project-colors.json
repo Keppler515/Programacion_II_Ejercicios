@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ed604ca-43dc-4ed0-bdab-eef3b87d9d5d": {
+      "ProjectGuid": "4ed604ca-43dc-4ed0-bdab-eef3b87d9d5d",
+      "DisplayName": "ConsolaArea",
+      "ColorIndex": 0
+    },
+    "18c42fff-a3bc-4860-acc9-d2c89c5e3be2": {
+      "ProjectGuid": "18c42fff-a3bc-4860-acc9-d2c89c5e3be2",
+      "DisplayName": "LogicaArea",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

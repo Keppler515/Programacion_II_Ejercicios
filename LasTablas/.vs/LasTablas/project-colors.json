@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2225aba0-7351-4672-83f0-53de19eea7d3": {
+      "ProjectGuid": "2225aba0-7351-4672-83f0-53de19eea7d3",
+      "DisplayName": "ConsolaDeTablas",
+      "ColorIndex": 0
+    },
+    "de389d48-ac8e-468a-92cf-9f38f9ecb501": {
+      "ProjectGuid": "de389d48-ac8e-468a-92cf-9f38f9ecb501",
+      "DisplayName": "LogicaDeTablas",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

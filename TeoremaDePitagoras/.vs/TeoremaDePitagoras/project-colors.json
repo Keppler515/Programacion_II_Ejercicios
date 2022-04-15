@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28fba1e1-7e3a-4b8a-882b-42dc95263251": {
+      "ProjectGuid": "28fba1e1-7e3a-4b8a-882b-42dc95263251",
+      "DisplayName": "LogicaPitagoras",
+      "ColorIndex": 0
+    },
+    "0d4ed085-d33e-44a4-9078-5f1ee64559a3": {
+      "ProjectGuid": "0d4ed085-d33e-44a4-9078-5f1ee64559a3",
+      "DisplayName": "ConsolaPitagoras",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

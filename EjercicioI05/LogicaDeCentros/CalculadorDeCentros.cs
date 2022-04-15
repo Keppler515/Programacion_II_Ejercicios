@@ -4,45 +4,32 @@ namespace LogicaDeCentros
 {
     public static class CalculadorDeCentros
     {
+        public static int resto;
+        public static int sumaAntes = 0;
+        public static int sumaDespues = 0;
 
-        public static int[] numeros;
-        public static int valor;
-        public static int sumai = 0;
-        public static int sumaj = 0;
-        public static bool CalcularCentros(int numero)
+        public static void CalcularCentros(int valor)
         {
-            numeros = new int[numero];
-            valor = 1;
-
-            for (int i = 0; i < numeros.Length; i++)
+            for (int centro = 2; centro < valor; centro++)
             {
-                numeros[i] = valor++;
-                Console.WriteLine(numeros[i]);
-            }
-
-            for (int i = 0; i < numeros.Length; i++)
-            {
-                sumai = sumai + numeros[i];
-                Console.WriteLine($"I suma: {sumai}");
-
-                for (int j = 2; j < numeros.Length ; j++)
+                for (int i = 1; i < centro; i++)
                 {
-                    sumaj = sumaj + numeros[j];
-                    Console.WriteLine($"J suma: {sumaj}");
                     
-                    if (sumai == sumaj)
+                    for (int j = valor; j > centro; j--)
                     {
-                        if (j + i == numeros.Length - 1 )
+                        sumaDespues += j;
+
+                        if (sumaAntes == sumaDespues)
                         {
-                            Console.WriteLine($"el numero es {sumaj}");
-                            return true;
+                            Console.WriteLine(centro);
                         }
+                    sumaAntes += i;
                     }
+
+                    sumaDespues = 0;
                 }
                 
-                sumaj = 0;
             }
-            return false;
         }
 
     }

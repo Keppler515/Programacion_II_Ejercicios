@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a81431d4-64ec-4321-9f74-135adc89960e": {
+      "ProjectGuid": "a81431d4-64ec-4321-9f74-135adc89960e",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "120ddf9f-c823-49de-9ee0-f6c1881d61bd": {
+      "ProjectGuid": "120ddf9f-c823-49de-9ee0-f6c1881d61bd",
+      "DisplayName": "Biblioteca",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

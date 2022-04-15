@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce73f554-8293-4539-b207-22b3e7ff17c0": {
+      "ProjectGuid": "ce73f554-8293-4539-b207-22b3e7ff17c0",
+      "DisplayName": "ConsolaFactorial",
+      "ColorIndex": 0
+    },
+    "089d5be1-ee0a-4ace-afe5-48ad73253a98": {
+      "ProjectGuid": "089d5be1-ee0a-4ace-afe5-48ad73253a98",
+      "DisplayName": "LogicaFactorial",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

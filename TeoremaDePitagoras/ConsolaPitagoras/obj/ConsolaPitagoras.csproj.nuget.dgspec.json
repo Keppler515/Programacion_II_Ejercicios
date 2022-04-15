@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Programacion II\\TeoremaDePitagoras\\ConsolaPitagoras\\ConsolaPitagoras.csproj": {}
+  },
+  "projects": {
+    "G:\\Programacion II\\TeoremaDePitagoras\\ConsolaPitagoras\\ConsolaPitagoras.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Programacion II\\TeoremaDePitagoras\\ConsolaPitagoras\\ConsolaPitagoras.csproj",
+        "projectName": "ConsolaPitagoras",
+        "projectPath": "G:\\Programacion II\\TeoremaDePitagoras\\ConsolaPitagoras\\ConsolaPitagoras.csproj",
+        "packagesPath": "C:\\Users\\maxis\\.nuget\\packages\\",
+        "outputPath": "G:\\Programacion II\\TeoremaDePitagoras\\ConsolaPitagoras\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maxis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\Programacion II\\TeoremaDePitagoras\\LogicaPitagoras\\LogicaPitagoras.csproj": {
+                "projectPath": "G:\\Programacion II\\TeoremaDePitagoras\\LogicaPitagoras\\LogicaPitagoras.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Programacion II\\TeoremaDePitagoras\\LogicaPitagoras\\LogicaPitagoras.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Programacion II\\TeoremaDePitagoras\\LogicaPitagoras\\LogicaPitagoras.csproj",
+        "projectName": "LogicaPitagoras",
+        "projectPath": "G:\\Programacion II\\TeoremaDePitagoras\\LogicaPitagoras\\LogicaPitagoras.csproj",
+        "packagesPath": "C:\\Users\\maxis\\.nuget\\packages\\",
+        "outputPath": "G:\\Programacion II\\TeoremaDePitagoras\\LogicaPitagoras\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maxis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -7,7 +7,7 @@ namespace VistaCentros
     {
         static void Main(string[] args)
         {
-            CalculadorDeCentros.CalcularCentros(8);
+            CalculadorDeCentros.CalcularCentros(8);            
         }
     }
 }

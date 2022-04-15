@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ConversorBinario/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ConversorBinario.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConversorBinario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConversorBinario/1.0.0": {
+      "type": "project",
+      "path": "../ConversorBinario/ConversorBinario.csproj",
+      "msbuildProject": "../ConversorBinario/ConversorBinario.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ConversorBinario >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\maxis\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\Programacion II\\I03 - ConversorBinario\\Consola\\Consola.csproj",
+      "projectName": "Consola",
+      "projectPath": "G:\\Programacion II\\I03 - ConversorBinario\\Consola\\Consola.csproj",
+      "packagesPath": "C:\\Users\\maxis\\.nuget\\packages\\",
+      "outputPath": "G:\\Programacion II\\I03 - ConversorBinario\\Consola\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\maxis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "G:\\Programacion II\\I03 - ConversorBinario\\ConversorBinario\\ConversorBinario.csproj": {
+              "projectPath": "G:\\Programacion II\\I03 - ConversorBinario\\ConversorBinario\\ConversorBinario.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -45,7 +45,42 @@
       "ProjectGuid": "88281d96-6020-4381-97d2-5666dd27eb63",
       "DisplayName": "Ejercicio09",
       "ColorIndex": 8
+    },
+    "01f7de95-a8cd-45fe-86e2-3ee082dc0437": {
+      "ProjectGuid": "01f7de95-a8cd-45fe-86e2-3ee082dc0437",
+      "DisplayName": "Ejercicio01",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "10c41a46-64d4-4dff-aaf2-26e4148c63b8": {
+      "ProjectGuid": "10c41a46-64d4-4dff-aaf2-26e4148c63b8",
+      "DisplayName": "Ejercicio02",
+      "ColorIndex": 10
+    },
+    "e3c82073-5ad9-441c-b30b-d0ad8ce556ed": {
+      "ProjectGuid": "e3c82073-5ad9-441c-b30b-d0ad8ce556ed",
+      "DisplayName": "Biblioteca",
+      "ColorIndex": 11
+    },
+    "c4e1e7b7-2a77-4e64-9b8e-6a9e1ecc3362": {
+      "ProjectGuid": "c4e1e7b7-2a77-4e64-9b8e-6a9e1ecc3362",
+      "DisplayName": "Ejercicio02",
+      "ColorIndex": 12
+    },
+    "faa3a77a-2744-4d03-8ee1-cd6a296f3228": {
+      "ProjectGuid": "faa3a77a-2744-4d03-8ee1-cd6a296f3228",
+      "DisplayName": "BibliotecaDeClases",
+      "ColorIndex": 13
+    },
+    "ef3d5d89-d7d6-40b0-b9c0-e847a1b0cd59": {
+      "ProjectGuid": "ef3d5d89-d7d6-40b0-b9c0-e847a1b0cd59",
+      "DisplayName": "Ejercicio03",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 15
 }

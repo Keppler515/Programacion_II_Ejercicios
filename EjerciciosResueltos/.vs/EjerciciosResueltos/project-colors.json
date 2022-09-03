@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "49782483-4569-45c8-a5dc-b996e1ac8ea6": {
+      "ProjectGuid": "49782483-4569-45c8-a5dc-b996e1ac8ea6",
+      "DisplayName": "Ejercicio01",
+      "ColorIndex": 0
+    },
+    "a55e8ec8-3d0e-437b-8593-b544898165dd": {
+      "ProjectGuid": "a55e8ec8-3d0e-437b-8593-b544898165dd",
+      "DisplayName": "Ejercicio02",
+      "ColorIndex": 1
+    },
+    "2194cad6-6b6a-415f-ad07-06c17e369e4e": {
+      "ProjectGuid": "2194cad6-6b6a-415f-ad07-06c17e369e4e",
+      "DisplayName": "Ejercicio03",
+      "ColorIndex": 2
+    },
+    "0ca02300-5e14-4052-9a39-f4ef54cade99": {
+      "ProjectGuid": "0ca02300-5e14-4052-9a39-f4ef54cade99",
+      "DisplayName": "Ejercicio04",
+      "ColorIndex": 3
+    },
+    "72186a8b-6aad-4ec7-88c7-ff52b89a67b5": {
+      "ProjectGuid": "72186a8b-6aad-4ec7-88c7-ff52b89a67b5",
+      "DisplayName": "Ejercicio05",
+      "ColorIndex": 4
+    },
+    "248a2d7a-6d2d-4d85-bda2-b49497c2cc0d": {
+      "ProjectGuid": "248a2d7a-6d2d-4d85-bda2-b49497c2cc0d",
+      "DisplayName": "Ejercicio06",
+      "ColorIndex": 5
+    },
+    "74547908-b54a-4aca-9d28-4d43f08459a5": {
+      "ProjectGuid": "74547908-b54a-4aca-9d28-4d43f08459a5",
+      "DisplayName": "Ejercicio07",
+      "ColorIndex": 6
+    },
+    "86b7b482-e713-4a62-aa77-a6c2df2883a9": {
+      "ProjectGuid": "86b7b482-e713-4a62-aa77-a6c2df2883a9",
+      "DisplayName": "Ejercicio08",
+      "ColorIndex": 7
+    },
+    "88281d96-6020-4381-97d2-5666dd27eb63": {
+      "ProjectGuid": "88281d96-6020-4381-97d2-5666dd27eb63",
+      "DisplayName": "Ejercicio09",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

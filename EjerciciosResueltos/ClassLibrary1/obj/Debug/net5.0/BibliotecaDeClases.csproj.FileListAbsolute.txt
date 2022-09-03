@@ -1,0 +1,12 @@
+G:\Programacion II\EjerciciosResueltos\ClassLibrary1\bin\Debug\net5.0\BibliotecaDeClases.deps.json
+G:\Programacion II\EjerciciosResueltos\ClassLibrary1\bin\Debug\net5.0\BibliotecaDeClases.dll
+G:\Programacion II\EjerciciosResueltos\ClassLibrary1\bin\Debug\net5.0\ref\BibliotecaDeClases.dll
+G:\Programacion II\EjerciciosResueltos\ClassLibrary1\bin\Debug\net5.0\BibliotecaDeClases.pdb
+G:\Programacion II\EjerciciosResueltos\ClassLibrary1\obj\Debug\net5.0\BibliotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\EjerciciosResueltos\ClassLibrary1\obj\Debug\net5.0\BibliotecaDeClases.AssemblyInfoInputs.cache
+G:\Programacion II\EjerciciosResueltos\ClassLibrary1\obj\Debug\net5.0\BibliotecaDeClases.AssemblyInfo.cs
+G:\Programacion II\EjerciciosResueltos\ClassLibrary1\obj\Debug\net5.0\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+G:\Programacion II\EjerciciosResueltos\ClassLibrary1\obj\Debug\net5.0\BibliotecaDeClases.dll
+G:\Programacion II\EjerciciosResueltos\ClassLibrary1\obj\Debug\net5.0\ref\BibliotecaDeClases.dll
+G:\Programacion II\EjerciciosResueltos\ClassLibrary1\obj\Debug\net5.0\BibliotecaDeClases.pdb
+G:\Programacion II\EjerciciosResueltos\ClassLibrary1\obj\Debug\net5.0\BibliotecaDeClases.csproj.AssemblyReference.cache

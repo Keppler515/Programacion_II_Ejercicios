@@ -1,0 +1,16 @@
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\bin\Debug\net5.0\Ejercicio07.exe
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\bin\Debug\net5.0\Ejercicio07.deps.json
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\bin\Debug\net5.0\Ejercicio07.runtimeconfig.json
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\bin\Debug\net5.0\Ejercicio07.runtimeconfig.dev.json
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\bin\Debug\net5.0\Ejercicio07.dll
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\bin\Debug\net5.0\ref\Ejercicio07.dll
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\bin\Debug\net5.0\Ejercicio07.pdb
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\obj\Debug\net5.0\Ejercicio07.csproj.AssemblyReference.cache
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\obj\Debug\net5.0\Ejercicio07.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\obj\Debug\net5.0\Ejercicio07.AssemblyInfoInputs.cache
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\obj\Debug\net5.0\Ejercicio07.AssemblyInfo.cs
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\obj\Debug\net5.0\Ejercicio07.csproj.CoreCompileInputs.cache
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\obj\Debug\net5.0\Ejercicio07.dll
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\obj\Debug\net5.0\ref\Ejercicio07.dll
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\obj\Debug\net5.0\Ejercicio07.pdb
+G:\Programacion II\EjerciciosResueltos\Ejercicio07\obj\Debug\net5.0\Ejercicio07.genruntimeconfig.cache
